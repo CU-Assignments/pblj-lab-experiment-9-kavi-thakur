@@ -1,4 +1,14 @@
- // Course.java 
+// AIM:
+// To demonstrate dependency injection using Spring Framework with Java-based configuration
+// Objective:  
+// Define Course and Student classes. 
+// Use Configuration and Bean annotations to inject dependencies. 
+// Load Spring context and print student details. 
+
+
+
+//CODE
+// Course.java 
 public class Course { 
 private String courseName; 
 private String duration; 
